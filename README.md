@@ -1,6 +1,6 @@
 # kimi-cc
 
-一个 oh-my-zsh 插件，让你用 Moonshot 服务运行 Claude Code。
+一个 oh-my-zsh 插件，让你用 Kimi K2 (Moonshot) 运行 Claude Code。
 
 ## 快速开始
 
