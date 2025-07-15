@@ -60,11 +60,7 @@ kimi-cc --version
 ### 启用全局模式
 
 ```bash
-# 方法1：手动启用（推荐）
 kimi-cc-enable-global
-
-# 方法2：自动启用（设置环境变量时自动触发）
-export KIMI_CC_AUTH_TOKEN="your_token_here"
 ```
 
 ### 管理全局模式
